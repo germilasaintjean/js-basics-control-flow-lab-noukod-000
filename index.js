@@ -10,8 +10,8 @@ let isTipGenerous;
 switch (switchOnCharmFromTip = "Thank you so much") {
   isTipGenerous - true;
   case expression:
-    
+
     break;
   default:
-    
+
 }
