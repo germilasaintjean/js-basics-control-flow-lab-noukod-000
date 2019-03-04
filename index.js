@@ -1,6 +1,6 @@
 // Write your code in this file!
-const scuberGreetingForFeet = 400;
+const scuberGreetingForFeet = 0;
 let isFeet;
-if (scuberGreetingForFeet <= 400){
-  isFeet = true;
+if (scuberGreetingForFeet <= 199){
+  isFeet = 'This one is on me!';
 }
