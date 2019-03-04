@@ -1,6 +1,6 @@
 // Write your code in this file!
 function scuberGreetingForFeet (feet){
-  
+
   if (feet <= 400){
     return "This is on me!";
   } else if (1999 < feet && feet < 2500) {
@@ -12,5 +12,5 @@ function scuberGreetingForFeet (feet){
 
 
 function ternaryCheckCity(city){
-  
+
 }
