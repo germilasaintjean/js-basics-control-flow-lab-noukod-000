@@ -2,8 +2,9 @@
 function scuberGreetingForFeet (feet){
   if (feet <= 400){
     return "This is in me!";
-  } else if (1999 < feet &7 feet < 2500) {
+  } else if (1999 < feet && feet < 2500) {
     return "I will glady take your thirty bucks."
-
+  }else {
+    return "No can do."
   }
 }
